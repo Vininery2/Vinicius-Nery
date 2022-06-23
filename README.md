@@ -15,7 +15,7 @@
   <a href="https://www.instagram.com/vinicius_nery1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href=(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)="https://https://www.linkedin.com/in/vinicius-emanuel-98984a209/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ![Snake animation](https://github.com/Vininery2/Vinicius-Nery/blob/output/github-contribution-grid-snake.svg)
+
   
 </div>
  
